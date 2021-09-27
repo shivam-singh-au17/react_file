@@ -1,0 +1,227 @@
+{
+  "todos": [
+    {
+      "title": "Item 02",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Item 03",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Item 04",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Item 05",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Item 06",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Item 08",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Item 10",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Item 11",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "Item 12",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "Item 13",
+      "status": false,
+      "id": 13
+    }
+  ],
+  "myForm": [
+    {
+      "name": "Shivam Singh",
+      "email": "shivamsingh4458@gmail.com",
+      "age": "23",
+      "address": "RAJAULI ",
+      "salary": "230",
+      "isMarried": false,
+      "contry": "Mir",
+      "department": "FS",
+      "photo": "light.png",
+      "id": 1
+    },
+    {
+      "name": "RAVI SONI",
+      "email": "kamaljisinghkk@gmail.com",
+      "age": "22",
+      "address": "Chunar",
+      "salary": "12121",
+      "isMarried": true,
+      "contry": "Ban",
+      "department": "FE",
+      "photo": "test.png",
+      "id": 2
+    },
+    {
+      "name": "RAVI SONI",
+      "email": "singhsaurabh162000@gmail.com",
+      "age": "33",
+      "address": "Banaras",
+      "salary": "4343",
+      "isMarried": true,
+      "contry": "Rob",
+      "department": "BE",
+      "photo": "test.png",
+      "id": 3
+    },
+    {
+      "name": "ANOOP KUMAR",
+      "email": "kamaljisinghkk@gmail.com",
+      "age": "77",
+      "address": "sirsiya",
+      "salary": "6000",
+      "isMarried": true,
+      "contry": "Mir",
+      "department": "FE",
+      "photo": "png",
+      "id": 4
+    },
+    {
+      "name": "SAURABH SINGH",
+      "email": "singhsaurabh162000@gmail.com",
+      "age": "20",
+      "address": "ADHWAR",
+      "salary": "6000000",
+      "isMarried": false,
+      "contry": "Rob",
+      "department": "FS",
+      "photo": "test.jpg",
+      "id": 5
+    },
+    {
+      "name": "Shivam ",
+      "email": "shivamsingh4458@gmail.com",
+      "age": "23",
+      "address": "RAJAULI ADHWAR",
+      "salary": "232323",
+      "isMarried": false,
+      "contry": "Mir",
+      "department": "BE",
+      "photo": "png",
+      "id": 6
+    },
+    {
+      "name": "RAVI SHIVAM",
+      "email": "shivamsingh4458@gmail.com",
+      "age": "12345678",
+      "address": "Kolana",
+      "salary": "9000000",
+      "isMarried": false,
+      "contry": "Mir",
+      "department": "FS",
+      "photo": "svg",
+      "id": 8
+    },
+    {
+      "name": "ANOOP KUMAR",
+      "email": "8853289753",
+      "age": "456",
+      "address": "BANARAS JI",
+      "salary": "987654",
+      "isMarried": true,
+      "contry": "Ban",
+      "department": "BE",
+      "photo": "png",
+      "id": 9
+    },
+    {
+      "name": "Priya Daraganj",
+      "email": "priya@123",
+      "age": "33",
+      "address": "Daraganbg",
+      "salary": "0000",
+      "isMarried": false,
+      "contry": "Rob",
+      "department": "FE",
+      "photo": "png",
+      "id": 10
+    },
+    {
+      "name": "Rahul Characiya",
+      "email": "rahul@gmail.com",
+      "age": "43",
+      "address": "Allhabad",
+      "salary": "200000",
+      "isMarried": false,
+      "contry": "Ban",
+      "department": "BE",
+      "photo": "svg",
+      "id": 11
+    }
+  ],
+  "UserData": [
+    {
+      "name": "SmartPhone",
+      "price": 30,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwEKYWK6Lt9EGnjEg9mqPQ5rcNGXluy3lqQ&usqp=CAU",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 1
+    },
+    {
+      "name": "Watch",
+      "price": 50,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHP1FHnY8GJo1mGRGbjwMLXcBB5Fu88oAAg&usqp=CAU",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "price": 500,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnPW8cyUKzjwjxfxL9nxFBPAKEJgH9O9sTQ&usqp=CAU",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 3
+    },
+    {
+      "name": "Pant",
+      "price": 300,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKpakrjM_b-JvTzbfDgHCIp7gKTldAh034g&usqp=CAU",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 4
+    },
+    {
+      "name": "Mobaile",
+      "price": 3000,
+      "img": "https://s.alicdn.com/@sc04/kf/Hb413d97cba214f72abc2d641e1ccbf08g.png_300x300.png",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 5
+    },
+    {
+      "name": "Laptop",
+      "price": 30000,
+      "img": "https://gadgetshub.files.wordpress.com/2012/08/computergadgets.jpg",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 6
+    },
+    {
+      "name": "i Phone",
+      "price": 5000,
+      "img": "https://s.wsj.net/public/resources/images/ON-CD313_201705_G_20170519124713.jpg",
+      "info": "It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      "id": 7
+    }
+  ]
+}
