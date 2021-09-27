@@ -3,10 +3,26 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from 'react-router-dom';  // Router
+//  import Theme from './Contexts/ThemeContexts';      // CONTEX api
+// import AuthContexProvider from './Contexts/AuthContex';      // CONTEX api
+import {AuthContexProvider} from './Contexts/ReactRoutingV5II/AuthContex';
+//  import MyFirstContexProvider from './Contexts/MyFirstContex';      // CONTEX api
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+    {/* <MyFirstContexProvider> */}
+    {/* <AuthContexProvider> */}
+    <AuthContexProvider>
+      {/* <Theme > */}
+      <App />
+      {/* </Theme > */}
+    </AuthContexProvider>
+    {/* </AuthContexProvider> */}
+    {/* </MyFirstContexProvider> */}
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
